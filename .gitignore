@@ -1,0 +1,21 @@
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# Java / Maven
+target/
+
+# Environment & Secrets
+.env
+.env.*
+application-prod.yml
+
+# Logs
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+
